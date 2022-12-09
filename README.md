@@ -1,8 +1,6 @@
 # Hello World
 
-Hi there. I'm ***Saptarshi Chakraborty*** and I'm a former *Website Developer* from ***Kolkata, India***.
-
-If you'd rather not read, here's my [CV/Resume](https://github.com/Saptarshi-C/Saptarshi-C/files/10193696/saptarshi-chakraborty.pdf).
+Hi there. I'm ***Saptarshi Chakraborty*** and I'm a *former* *Website Developer* from ***Kolkata, India***. You can reach me over at saptarshi.office@gmail.com .
 
 My educational background is as a *Computer Science Engineer* and I have a Bachelor's degree in it. Still, I would consider myself a mostly self-taught web developer.
 
@@ -18,4 +16,4 @@ In my free time, you will find my doing various things such as playing with my c
 
 I appreciate your time and since you managed to make it this far, here's a cat:
 
-![Kitty](https://user-images.githubusercontent.com/71645122/206674849-71c83740-6a47-4c14-b583-76b910a8aa23.jpg)
+![Kitty](./04.jpg)

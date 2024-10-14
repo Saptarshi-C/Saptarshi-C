@@ -4,7 +4,7 @@ Hi there. I'm ***Saptarshi C*** and I'm a *former* *Website Developer* from some
 
 My educational background is as a *Computer Science Engineer* and I have a Bachelor's degree in it. Still, I would consider myself a mostly self-taught web developer.
 
-I have done freelance web development from 2011 onwards, up until the middle of 2020. Then I went on to become a *Technical Support* person for one of my previous clients during the pandemic days; helping them with conducting and managing their online classes. This ended in the middle of 2022. I have been learning ***C#*** for ***Unity Game Development*** since I want to go on to become a *Game Developer*.
+I have done freelance web development from 2011 onwards, up until the middle of 2020. Then I went on to become a *Technical Support* person for one of my previous clients during the pandemic days; helping them with conducting and managing their online classes. This ended in the middle of 2022.
 
 My primary web development expertise is in making websites using *Joomla* as a back-end with custom-coded front-end templates. I have also dabbled in using *CodeIgniter* and even made my own website using a plain PHP based system.
 
